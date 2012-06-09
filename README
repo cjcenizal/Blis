@@ -1,0 +1,18 @@
+Blis - AS3 BLitting Isometric System
+======================
+
+This system makes it easier to render and interact
+with a large-ish number (~1000) of sprites in isometric
+Flash games.
+
+It utilizes blitting, and all rendering is done
+using an isometric point of view.
+
+See more details at the inaugural blog post:
+http://blog.cenizal.com/?p=119
+
+Just a warning: this project probably won't be updated
+until the Fall of 2012, due to the finite number
+of hours in the day.
+
+Author : CJ Cenizal
